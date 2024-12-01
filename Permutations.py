@@ -30,5 +30,4 @@ def permutations1(s):
     return result
 
 
-# Example usage:
 print(permutations1("abc"))
